@@ -56,3 +56,5 @@ Future enhancements include high-score tracking, new lifelines, and exploring mu
 
 Excited to share this rewarding project with you all! 💻✨
 
+![image](https://github.com/amansethhh/Simple-Quiz-Game/blob/34c7bd1c02c162f80476d16aaf383a3e02e689a2/1731010229789.jpg)
+
